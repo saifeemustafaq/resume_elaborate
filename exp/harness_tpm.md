@@ -69,7 +69,7 @@ Post-optimization, Time-to-First-Pipeline (TTFP) decreased from 53 minutes to 32
   - **Innovation** (20%): Novel use of emerging tech (e.g., WASM, eBPF)
 
 #### Post-Event Integration  
-- **Plugin Marketplace:** Launched a curated directory for hackathon submissions, featuring automated security scans and compatibility checks. Top plugins like **“DriftGuard”** (IaC drift detection) were adopted by 14% of enterprise customers within three months.
+- **Plugin Marketplace:** Launched a curated directory for hackathon submissions, featuring automated security scans and compatibility checks. Top plugins were adopted by 14% of enterprise customers within three months.
 - **Maintainer Onboarding:** Created a Maintainer Guidebook detailing contribution workflows, including how to request Harness Cloud credits for performance testing. Assigned senior engineers as mentors for high-potential projects.
 
 ---
