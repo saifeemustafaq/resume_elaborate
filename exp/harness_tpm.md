@@ -2,7 +2,7 @@
 - Technical Product Manager (Developer Relations Council)
 - Harness Platform Team
 
-**Tenure:** January 2024 – July 2024  
+**Tenure:** January 2024 – August 2024  
 
 ---
 
