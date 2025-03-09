@@ -24,7 +24,7 @@ Post-redesign, onboarding time decreased from 3 hours to 1.65 hours (45% reducti
 ### 2. Feature Prioritization  
 **Key Metric:** 40% increase in enterprise adoption in the insurance and banking sectors  
 
-#### Strategic Context  
+#### Context  
 The Textract feature roadmap required prioritization to maximize business impact. The challenge was balancing technical feasibility with market demand and customer needs. Existing customer feedback indicated a strong desire for enhanced document processing capabilities, particularly in industries with high volumes of handwritten documents.
 
 #### Execution Framework  
