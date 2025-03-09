@@ -1,4 +1,7 @@
-## Experience Overview: Harness.io – Technical Product Manager (Developer Relations Council), Harness Platform Team  
+## Experience Overview: Harness.io
+- Technical Product Manager (Developer Relations Council)
+- Harness Platform Team
+
 **Tenure:** January 2024 – July 2024  
 
 ---
