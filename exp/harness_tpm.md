@@ -70,13 +70,3 @@ Post-optimization, Time-to-First-Pipeline (TTFP) decreased from 53 minutes to 32
 - **Maintainer Onboarding:** Created a Maintainer Guidebook detailing contribution workflows, including how to request Harness Cloud credits for performance testing. Assigned senior engineers as mentors for high-potential projects.
 
 ---
-
-## Strategic Insights for Product Leaders  
-1. **DevRel as Product Differentiator:** In competitive platform markets, investing in developer experience (DX) tooling generates higher LTV compared to pure feature development.
-2. **Metrics That Matter:** Track “Time-to-Productive” (TTP) alongside adoption rates—teams with TTP under 30 minutes see higher 90-day retention.
-3. **Community as Innovation Pipeline:** A significant portion of enterprise-ready features originated from hackathon projects, validating the ROI of structured community co-creation.
-
-This framework ensures hiring managers fully grasp the systemic thinking behind each achievement, emphasizing technical depth, measurable outcomes, and alignment with platform business goals.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/34482484/ae848613-fde3-4f50-8671-2e1d6e545707/paste.txt
